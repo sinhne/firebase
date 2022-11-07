@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">BT_CuoiKy</string>
+    <string name="action_trangchu">Trang Chủ</string>
+    <string name="action_timkiem">Tìm Kiếm</string>
+    <string name="action_taikhoan">Tài Khoản</string>
+    <string name="action_admin">Admin</string>
+</resources>
